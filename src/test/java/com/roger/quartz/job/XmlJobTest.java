@@ -1,6 +1,8 @@
-package com.roger.quartz;
+package com.roger.quartz.job;
 
 import org.junit.Test;
+
+import com.roger.quartz.BaseTestSuitCase;
 
 public class XmlJobTest extends BaseTestSuitCase {
 
